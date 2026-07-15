@@ -21,7 +21,7 @@
 * 🎓 **Academic Focus:** CS Undergrad at Sharda University.
 * 🔬 **Interests:** NLP, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 * 🚀 **Currently Building:** ResumeLens — an AI-powered resume screening application.
-* 💼 **Experience:** AI/ML Intern @ Infosys Springboard.
+* 💼 **Experience:** AI/ML Intern @ Infosys Springboard | Intern @ Liberin Technologies.
 
 ---
 
