@@ -21,6 +21,7 @@
 * 🎓 **Academic Focus:** CS Undergrad at Sharda University.
 * 🔬 **Interests:** NLP, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 * 🚀 **Currently Building:** ResumeLens — an AI-powered resume screening application.
+* 🚀 **Currently Building:** FocusGuard AI — an AI/ML attention intelligence platform that tracks digital distractions and provides personalized productivity recommendations using behavioral analytics and predictive modeling.
 * 💼 **Experience:** AI/ML Intern @ Infosys Springboard | Intern @ Liberin Technologies.
 
 ---
